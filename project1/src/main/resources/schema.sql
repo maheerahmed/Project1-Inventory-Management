@@ -1,5 +1,5 @@
-drop table if exists WAREHOUSE;
 drop table if exists STOCK;
+drop table if exists WAREHOUSE;
 
 create table WAREHOUSE (
 	id INT AUTO_INCREMENT PRIMARY KEY,
